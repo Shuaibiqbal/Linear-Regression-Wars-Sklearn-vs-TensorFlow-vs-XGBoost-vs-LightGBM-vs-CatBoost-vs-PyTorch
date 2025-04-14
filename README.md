@@ -13,3 +13,19 @@ m is the slope (coefficient)
 b is the y-intercept
 
 
+- ✅ **Scikit-learn** → Simplest implementation with LinearRegression() for classic ML.
+- ✅ **TensorFlow (Keras)** → Deep learning approach using gradient descent.
+- ✅ **Statsmodels** → Detailed statistical summaries (p-values, R-squared).
+- ✅ **XGBoost** → Boosted trees with linear models as base learners.
+- ✅ **LightGBM** → Faster gradient boosting with linear tree splits.
+- ✅ **CatBoost** → Handles categorical features natively in regression.
+- ✅ **PyTorch** → Customizable neural-network-style regression.
+
+Bonus:
+
+**Scikit-learn:** Best for quick prototyping.
+**Statsmodels:** Best for statistical rigor.
+**TF/PyTorch:** Best for scalability & customization.
+**XGBoost/LightGBM/CatBoost:** Best for hybrid (tree + linear) performance.
+
+
